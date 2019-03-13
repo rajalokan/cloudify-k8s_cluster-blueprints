@@ -13,7 +13,7 @@ inputs:
   agent_user:
     description: >
       User for connecting to agent VMs
-    default: centos
+    default: ubuntu
 
   resource_count:
     description: >
